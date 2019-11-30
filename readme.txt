@@ -1,7 +1,7 @@
 # MSBD5001 Personal Project: Kaggle in-class competition
 ## Introduction
 1. The programming language used in this project is python 3.5.
-2. The packages used in this project including: pandas, numpy, sklearn, scipy, xgboost, matplotlib, seaborn.
+2. The packages used in this project including: pandas, numpy, sklearn, scipy, matplotlib, seaborn.
 ## Project Details
 ### Input
 Input files are stored under `rawdata` folder, including `samplesubmission.csv`, `test.csv` and `train.csv`.
